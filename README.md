@@ -8,7 +8,7 @@ The portfolio follows an **Apple-style minimal design** with smooth animations a
 
 ## 🚀 Live Website
 
-🔗 https://abhisek-portfolio-seven.vercel.app
+🔗 https://abhisek-portfolio-pink.vercel.app
 
 ---
 
